@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592815231354",
+    "project_id": "walkhealthy-180504"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592815231354:android:0b7ee75efae58c7c",
+        "android_client_info": {
+          "package_name": "saison.group"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592815231354-6905ng59bvn8hdchpts86hc2milf86sl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "592815231354-c661feq3ujppjh4hrmoneq21nkl6c06f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saison.group",
+            "certificate_hash": "ac8f0d80c9155db215b48daabe59fd962a0d3a63"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRuQk2DBzoTjZ5BnI0bvUeK7M__gZeKNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
